@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["railscode@gmail.com"]
   spec.description   = "Useful filter settings for Sanitize Gem"
   spec.summary       = "Useful filter settings for Sanitize Gem"
-  spec.homepage      = "https://github.com/vav/sanitize_filter"
+  spec.homepage      = "https://github.com/st-granat/sanitize_filter"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
